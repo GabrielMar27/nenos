@@ -15,5 +15,6 @@ function func(arr1, arr2) {
   for (i = 0; i < arrFinal.length; i++) {
     sum += arrFinal[i];
   }
+  //arata suma elemetelor
   console.log(sum);
 }
